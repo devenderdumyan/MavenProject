@@ -71,6 +71,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<name>CounterWebApp</name>
   
 </project>
